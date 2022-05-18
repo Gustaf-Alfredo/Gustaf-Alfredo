@@ -1,16 +1,24 @@
 ### Hi there 👋
 
 <!--
-**Gustaf-Alfredo/Gustaf-Alfredo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Olá, me chamo SeuNomeAqui ! 
+### Bem vindo ao meu perfil GitHub
 
-Here are some ideas to get you started:
+### Ferramentas e Tecnologias
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg" />
+          
+<div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<a href="https://www.instagram.com/gustaf_avf/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+
+<a href="https://mobile.twitter.com/gustaf_alverad" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" target="_blank"></a>
+
+<a href = "gustavoalfredo.web@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
+<a href="https://www.linkedin.com/in/gustavo-alfredo-194610225" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
