@@ -12,7 +12,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg" width="40" height="40"/>
 </div>
           
-<div style="display: flex>
+<div style="display: flex">
 <a href="https://www.instagram.com/gustaf_avf/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
 <a href="https://mobile.twitter.com/gustaf_alverad" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" target="_blank" width="40" height="40"></a>
