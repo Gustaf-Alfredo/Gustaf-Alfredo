@@ -1,24 +1,31 @@
-### Hi there 👋
+
+<p align="center">
+  <h1 align="center">Ryan Matheus da Silva Leal</h1>
+ 
+<img align="left" height="200" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/>
+
+ <h3 align="center"> Tecnologias que estou estudando :computer:</h3>
 
 
-## Olá, me chamo SeuNomeAqui ! 
-### Bem vindo ao meu perfil GitHub
+ 
+<p align="center">
+  <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"></img>
+   <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
+ <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></img>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"><img>
+  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+  </p>
+  <br/><br/><br/><br/><br/>
+  
+<p align="center">
 
-### Ferramentas e Tecnologias
-<div style="display: flex">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg" width="40" height="40"/>
-</div>
-          
-<div style="display: flex">
-<a href="https://www.instagram.com/gustaf_avf/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+## Minhas estatisticas :chart_with_upwards_trend:
+[
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryan-leal&layout=compact&theme=tokyonight&exclude_repo=ICG)![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryan-leal&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://mobile.twitter.com/gustaf_alverad" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" target="_blank" width="40" height="40"></a>
+---
+</p>
 
-<a href = "gustavoalfredo.web@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
-<a href="https://www.linkedin.com/in/gustavo-alfredo-194610225" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
-
+#### _"O Cosmos é tudo que existiu, existe ou existirá"_ 🌌
