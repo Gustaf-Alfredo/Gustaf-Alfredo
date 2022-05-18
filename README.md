@@ -11,7 +11,7 @@
 <p align="center">
    
    
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg" width="40" height="40" />
+ <img src="devicon-bulma-plain colored"width="40" height="40">/>
           
  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></img>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"><img>
