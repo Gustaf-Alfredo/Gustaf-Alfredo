@@ -28,6 +28,8 @@
         <a href="https://www.linkedin.com/in/gustavo-alfredo-194610225">
             <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Perfil do Linkedin">
         </a>
+  
+  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/raphael-nascimento-511b09148/)
 
         <a href="https://www.instagram.com/gustaf_avf/">
             <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="">
