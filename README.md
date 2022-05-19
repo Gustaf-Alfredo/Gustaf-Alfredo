@@ -24,16 +24,11 @@
         <a href="https://mobile.twitter.com/gustaf_alverad">
             <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white">
         </a>
-
-        <a href="https://www.linkedin.com/in/gustavo-alfredo-194610225">
-            <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-        </a>
   
   [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/gustavo-alfredo-194610225/)
 
-        <a href="https://www.instagram.com/gustaf_avf/">
-            <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="">
-        </a>
+        
+  [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/gustaf_avf/)
  </div>
   <br/><br/><br/><br/><br/>
   
