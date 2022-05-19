@@ -20,7 +20,7 @@
 <h3 align="center"> Contato: 📫</h3>
 
 
-<div style="display: flex">
+<div style="display: flex; align-items:center">
   
   <a href="https://mobile.twitter.com/gustaf_alverad">
             <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Perfil do Twitter">
