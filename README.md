@@ -17,7 +17,7 @@
           
 </p>
 
-<h3 align="left"> Contato: 📫</h3>
+<h3 align="center"> Contato: 📫</h3>
 
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/>](https://mobile.twitter.com/gustaf_alverad)  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/gustavo-alfredo-194610225) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/gustaf_avf/)  
 
