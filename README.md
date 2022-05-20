@@ -1,4 +1,4 @@
-<div>
+<div align="center">
 <p align="center">
   <h1 align="center">Gustavo Alfredo Vitorino Ferreira</h1>
  
