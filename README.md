@@ -13,11 +13,6 @@
 <p align="center">
   Olá! Bem vindo. <br>Eu sou Gustavo, um curioso da <strong>tmecnologia</strong>! <br> Eu sou um <strong>estudante de Front-End</strong>, e estou cursando <strong>Ciência da computação</strong>.<br />
 
-
-<p align="center">
-  I'm an <strong>Icamiaba</strong> in tech!<br />
-</p>
-
 <p align="center">
   💼 Habilidades: <strong>Superar os obstáculos com um grande sorriso.</strong>
 </p>
