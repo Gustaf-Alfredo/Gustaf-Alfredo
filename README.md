@@ -28,7 +28,7 @@
 
 
 <p align="center">
-  💌 Text me: ⤵️
+   Contato: ⤵️
 </p>
 <p align="center">
   <a href="https://www.instagram.com/gustaf_avf/" alt="Instagram">
