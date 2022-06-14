@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  💼 Habilidades: <strong>Overcome obstacles with a big smile.</strong>
+  💼 Habilidades: <strong>Superar os obstáculos com um grande sorriso.</strong>
 </p>
 
 <p align="center">
