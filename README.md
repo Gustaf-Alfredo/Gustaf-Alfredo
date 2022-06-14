@@ -37,9 +37,7 @@
   <a href="https://www.linkedin.com/in/gustavo-alfredo-194610225" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/keidsonroby/" /></a>
 </p>  
-<p align="center">
-  <a href="#" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
-</p>
+
 ## 💻 Tecnologias
 
 <p align="center">
