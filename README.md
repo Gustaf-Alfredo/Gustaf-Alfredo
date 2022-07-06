@@ -11,14 +11,14 @@
 
 
 <p align="center">
-  Olá! Bem vindo. <br>Eu sou Gustavo, um curioso da <strong>tmecnologia</strong>! <br> Eu sou um <strong>estudante de Front-End</strong>, e estou cursando <strong>Ciência da computação</strong>.<br />
+  Olá! Bem vindo. <br>Eu sou Gustavo, um curioso da <strong>tecnologia</strong>! <br> Eu sou um estudante almejando se tornar um <strong>desenvolvedor Full Stack </strong>, e estou cursando <strong>Ciência da computação</strong>.<br />
 
 <p align="center">
   💼 Habilidades: <strong>Superar os obstáculos com um grande sorriso.</strong>
 </p>
 
 <p align="center">
-  🚀  Conhecimento: <strong>Front-End JavaScript, HTML, CSS e Bulma.</strong>
+  🚀  Conhecimento: <strong>Front-End JavaScript, HTML, CSS e Bulma.Back-end NodeJS e MySQL</strong>
 </p>
 
 
@@ -41,7 +41,12 @@
  
  <img src="https://img.shields.io/badge/-javascript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black" height="25"/>
  <img src="https://user-images.githubusercontent.com/101288917/173592932-76a99cd4-ec33-4566-8d03-5a93e9181f4c.png" height="25"/>
- <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" height="25"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="60"/>
+          
+          
+          
+          
 
 
 </p>
