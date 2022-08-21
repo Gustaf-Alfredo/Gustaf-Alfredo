@@ -31,7 +31,10 @@
   
   <a href="https://www.linkedin.com/in/gustavo-alfredo-194610225" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/keidsonroby/" /></a>
-</p>  
+  
+   <a href="https://twitter.com/Gustaf_Alverad" alt="Twitter">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+</p>
 
 ## 💻 Tecnologias
 
