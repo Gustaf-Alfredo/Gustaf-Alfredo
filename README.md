@@ -10,6 +10,8 @@
 </div>
 
 
+
+
 <p align="center">
   Olá! Bem vindo. <br>Eu sou Gustavo, um curioso da <strong>tecnologia</strong>! <br> Eu sou um estudante almejando se tornar um <strong>desenvolvedor Full Stack </strong>, e estou cursando <strong>Ciência da computação</strong>.<br />
 
@@ -48,19 +50,21 @@
  <img align="center" alt="Linux" src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black" />
  <img align="center" alt="NodeJS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
  <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+ <img align="center" alt="React" src="https://img.shields.io/badge/-React-blue" /> 
 
 
           
-          
-          
-          
-![Gustavo GitHub stats](https://github-readme-stats.vercel.app/api?username=Gustaf-Alfredo&show_icons=true&theme=merko)
+ <div align="center">
+  <a href="https://www.linkedin.com/in/gustavo-alfredo-194610225/">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gustaf-Alfredo&show_icons=true&theme=tokyonight&include_all_commits=false&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustaf-Alfredo&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
 
 </p>
 
 <div align="center">
 <h2>Let's code!!!</h2>
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="400px" />
+<img align="right" height="200" width="300" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 </div>
 
 
