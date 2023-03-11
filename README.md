@@ -30,9 +30,6 @@ Busco trabalhar junto a um time colaborativo e desafiador onde eu possa desenvol
 </p>
 
 <p align="left">
-  <a href="https://criarmeulink.com.br/u/1678560212" alt="Gmail">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-
   <a href="https://www.linkedin.com/in/gustavo-alfredo-194610225" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/keidsonroby/" /></a>
   
