@@ -43,7 +43,8 @@ Busco trabalhar junto a um time colaborativo e desafiador onde eu possa desenvol
 
 
 
-<p align="center">
+
+    
 ## 💻 Tecnologias
 
 <p align="center">
