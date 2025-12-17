@@ -16,7 +16,7 @@
 </p>
 
 <p align="left">
-  💼 <strong>Linguagens:</strong> Flutter, React Native, Next e Vue
+  💼 <strong>Linguagens:</strong> Flutter, React Native, e Vue
 </p>
 
 <p align="left">
@@ -40,7 +40,6 @@
 <p align="start">
   <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" alt="Flutter" />
   <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" />
-  <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="Next.js" />
   <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" alt="Vue.js" />
 </p>
 
